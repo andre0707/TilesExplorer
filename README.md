@@ -19,9 +19,9 @@ The Explorer Tiles are based on OpenStreetMap 256x256px tiles on zoom level 14.
 What is the point? Get the biggest possible square and visit as many tiles as you can!
 Check out [VeloViewer](https://blog.veloviewer.com/veloviewer-explorer-score-and-max-square/) for further information.
 
-Tiles Explorer will cover the map with the tiles. You can also see your current position.
+Tiles Explorer will cover the map with tiles. You can also see your current position.
 
-Tiles Explorer shares its database with [Workout Map](https://itunes.apple.com/us/app/workoutmap/id1608785584) to display your visited tiles.
+Tiles Explorer shares its database with the iOS app [Workout Map](https://itunes.apple.com/us/app/workoutmap/id1608785584) to display your visited tiles.
 
 There is also an option to mark a tile. Just click on it and use the star button on the right side of the screen.
 
