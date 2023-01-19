@@ -30,3 +30,10 @@ Tiles Explorer lets you help find new tiles around you.
 
 For the best performance, only a certain amount of tiles are displayed at once. You might need to zoom in on the map to show the tiles.
 When moving around on the map, it takes a moment to display the tiles for the new visible area on the map.
+
+
+## Images
+
+<img src="https://github.com/andre0707/TilesExplorer/blob/main/img/mainScreen.png" width="400" alt="Main screen">
+
+<img src="https://github.com/andre0707/TilesExplorer/blob/main/img/settingsScreen.png" width="400" alt="Settings screen">
