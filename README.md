@@ -1,5 +1,18 @@
 #  Tiles Explorer
 
+You can download the app on the AppStore:
+[Download on the AppStore](https://itunes.apple.com/us/app/tiles-explorer/id1644377418)
+
+
+If you have any questions, problems, feature requests or anything else:
+[Report a bug/problem/issue](https://github.com/andre0707/TilesExplorer/issues)
+
+
+You can also check the wiki page here for more detailed inforamtion and screenshots: [Wiki](https://github.com/andre0707/TilesExplorer/wiki)
+
+
+## Description
+
 Tiles Explorer is an iOS helper app for Explorer Tiles.
 The Explorer Tiles are based on OpenStreetMap 256x256px tiles on zoom level 14.
 
