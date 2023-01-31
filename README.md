@@ -13,23 +13,27 @@ You can also check the wiki page here for more detailed inforamtion and screensh
 
 ## Description
 
-Tiles Explorer is an iOS helper app for Explorer Tiles.
-The Explorer Tiles are based on OpenStreetMap 256x256px tiles on zoom level 14.
+*Tiles Explorer* is an iOS helper app for Explorer Tiles.
+The explorer tiles are based on OpenStreetMap 256x256px tiles on zoom level 14.
 
-What is the point? Get the biggest possible square and visit as many tiles as you can!
+What is the point of explorer tiles? Explore the map with your workouts and get the biggest possible square and visit as many tiles as you can!
 Check out [VeloViewer](https://blog.veloviewer.com/veloviewer-explorer-score-and-max-square/) for further information.
 
-Tiles Explorer will cover the map with tiles. You can also see your current position.
+*Tiles Explorer* will help you to keep track of your explored tiles. 
+The app covers a map with tiles. There are three tile types (explored, not explored, marked). You can pick which types should be displayed on the map.
+Explored tiles are tiles you visited during a workout. They are imported with the iOS app *Workout Map*.
+You can also see your current position to check which tile you are currently in and to estimate the distance to the next tile.
+There is an option to mark tiles. This can help to keep track which tiles you want to visit next.
 
-Tiles Explorer shares its database with the iOS app [Workout Map](https://itunes.apple.com/us/app/workoutmap/id1608785584) to display your visited tiles.
+Select a color for each tile type (explored, not explored, marked) to visualise your tiles.
+To mark a tile, just click any and use the star button on the map.
 
-There is also an option to mark a tile. Just click on it and use the star button on the right side of the screen.
-
-Tiles Explorer lets you help find new tiles around you.
+*Tiles Explorer* shares its database with [Workout Map](https://itunes.apple.com/us/app/workoutmap/id1608785584) to display your visited tiles which were part of a workout.
+Import your explored tiles directly from *Apple Health* with *Workout Map*.
 
 
 For the best performance, only a certain amount of tiles are displayed at once. You might need to zoom in on the map to show the tiles.
-When moving around on the map, it takes a moment to display the tiles for the new visible area on the map.
+When moving around the map, it takes a moment to display the tiles for the new visible area on the map.
 
 
 ## Images
